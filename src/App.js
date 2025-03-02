@@ -42,10 +42,10 @@ const App = () => {
                 {/* <NonACRoom /> */}
                 {/* <Footer /> */}
                 <div className="fixed flex h-[150px] items-center  justify-between px-7 pt-10 w-full bottom-[0px] sm:bottom-0 left-0 ">
-                  <a href="tel:+91" className="">
+                  <a href="tel:+917340413545" className="">
                     <FaPhoneAlt className="text-5xl text-white bg-black p-2   rounded-full" />
                   </a>
-                  <a href="http://wa.me/+91">
+                  <a href="http://wa.me/+917340413545">
                     <IoLogoWhatsapp className="text-5xl text-[#08c241] " />
                   </a>
                 </div>

@@ -84,13 +84,16 @@ const HomeImageComponent = () => {
             ref={buttonRef}
             className=" px-6 py-3 mb-10 text-sm sm:text-lg text-black border border-[1px] border-white rounded-full"
           >
-            <a href="http://wa.me/+91" className="text-white h-full w-full">
+            <a
+              href="http://wa.me/+917340413545"
+              className="text-white h-full w-full"
+            >
               BOOK NOW
             </a>
           </button>
           <div>
             <p>Explore</p>
-            <p className="text-2xl font-semibold py-2">+919305172313</p>
+            <p className="text-2xl font-semibold py-2">+917340413545</p>
           </div>
         </div>
 

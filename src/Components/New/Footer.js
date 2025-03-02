@@ -15,7 +15,7 @@
 //         {/* Middle Section */}
 //         <div>
 //           <h3 className="text-lg font-semibold mb-2">Stay</h3>
-//           <p className="text-sm">+91</p>
+//           <p className="text-sm">+917340413545</p>
 //           <p className="text-sm">info@birladharamshala.com</p>
 //         </div>
 //       </div>
@@ -48,7 +48,7 @@ const Footer = () => {
         <div className="footer-middle">
           <h3 className="text-lg font-semibold mb-2">ACCOMMODATION</h3>
           <p className="text-sm">info@clarkshotel.com</p>
-          <p className="text-sm">+91</p>
+          <p className="text-sm">+917340413545</p>
         </div>
 
         {/* End Section */}

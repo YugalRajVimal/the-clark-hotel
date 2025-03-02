@@ -97,7 +97,7 @@ const LuxuryTentStay = () => {
                 Affordable nightly rate
               </p>
               <button className="bg-[#326bd4] w-fit px-8 py-4 text-sm sm:text-lg text-black  rounded-full">
-                <a href="http://wa.me/+91" className="h-full">
+                <a href="http://wa.me/+917340413545" className="h-full">
                   BOOK NOW
                 </a>
               </button>

@@ -19,7 +19,7 @@
 //             Colony, Ayodhya, Uttar Pradesh 224123
 //           </p>
 //           <p>
-//             <strong>Phone No. :</strong>+91
+//             <strong>Phone No. :</strong>+917340413545
 //           </p>
 //         </div>
 //       </div>

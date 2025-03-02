@@ -95,7 +95,7 @@ const ACRoom = () => {
           </p>
           <p className="text-xl font-semibold">Affordable rates</p>
           <button className="bg-[#17fb18] w-fit px-6 py-3 text-sm sm:text-lg text-black border border-[1px] border-black rounded-full">
-            <a href="http://wa.me/+91" className="h-full">
+            <a href="http://wa.me/+917340413545" className="h-full">
               BOOK NOW
             </a>
           </button>
