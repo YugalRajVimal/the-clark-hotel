@@ -76,8 +76,8 @@ const HomeImageComponent = () => {
         </div>
 
         <h1 ref={textRef} className="text-center">
-          Luxurious tents, dining, and unique experiences await you in
-          Prayagraj's Kumbh city.
+          Heritage charm meets modern amenities in Varanasi's premier hotel for
+          leisure and business travelers.
         </h1>
         <div className="text-center">
           <button
